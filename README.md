@@ -26,3 +26,5 @@ This project is a **PDF-based chatbot application** that enables users to upload
 - [LangChain](https://github.com/hwchase17/langchain)
 - [Google Generative AI](https://developers.generativeai.google/)
 - [FAISS](https://github.com/facebookresearch/faiss)
+
+Note: This code will work good on goolge collab. Streamlit was not working well with my laptop. I will uupdate soon regarding streamlit.
